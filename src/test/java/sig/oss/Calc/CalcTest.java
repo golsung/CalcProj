@@ -23,7 +23,7 @@ public class CalcTest {
 	public void testmul() {
 		Calc c = new Calc();
         c.sub(10, 20);
-		assertEquals(200, c.getResult());
+		assertEquals(-10, c.getResult());
 	}
 }
 
