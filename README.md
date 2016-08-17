@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/golsung/CalcProj.svg?branch=master)](https://travis-ci.org/golsung/CalcProj)
